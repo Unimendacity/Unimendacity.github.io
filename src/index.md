@@ -24,8 +24,12 @@ contact:
     url: tel:+8616620912450
   - icon: fab fa-github
     text: Gitbub主页
-    url: [https://github.com/0xbabeface](https://github.com/Unimendacity)
-
+    url: https://github.com/0xbabeface
+# PDF下载链接
+# download:
+#   title: 下载
+#   icon: fas fa-download fa-fw
+#   url: https://github.com/xaoxuu/resume-docs
 ---
 
 
@@ -107,7 +111,7 @@ R-CNN算法对RGB图像的实例分割结果投影至点云，然后对相关点
 ## <i class="fas fa-wrench"></i> 技能
 
 
-• 编程语言: 熟悉C++, Python, Euslisp
-• 技能: ROS, Pytorch, TensorRT
-• 其他: Docker, Git, Linux
-• 语言: 英语（商务级别），日语（商务级别）
+- 编程语言: 熟悉C++, Python, Euslisp
+- 技能: ROS, Pytorch, TensorRT
+- 其他: Docker, Git, Linux
+- 语言: 英语（商务级别），日语（商务级别）
