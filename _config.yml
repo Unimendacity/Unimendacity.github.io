@@ -5,7 +5,7 @@ title: Xu Liangwei's Page
 subtitle: ''
 description: ''
 keywords:
-author:  Xu Liangwei
+author:  Zhao Feiyu
 language: zh-CN
 timezone: ''
 
@@ -162,5 +162,5 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:xlwyes/xlwyes.github.io.git
+  repo: git@github.com:Unimendacity/xlwyes.github.io.git
   branch: gh-pages
