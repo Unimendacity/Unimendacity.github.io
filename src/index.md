@@ -24,7 +24,7 @@ contact:
     url: tel:+8616620912450
   - icon: fab fa-github
     text: Gitbub主页
-    url: https://github.com/0xbabeface
+    url: https://github.com/Unimendacity
 # PDF下载链接
 # download:
 #   title: 下载
