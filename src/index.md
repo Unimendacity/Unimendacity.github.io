@@ -8,7 +8,7 @@ description: Cogito, ergo sum.
 resume_title: 赵飞宇的主页
 # 应聘者姓名
 name: 赵飞宇
-avatar: zfy.jpg
+avatar: /img/avatar.jpg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
