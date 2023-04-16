@@ -19,8 +19,8 @@ theme_config:
   robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://unimendacity.github.io
-# url: https://resume.js.org
+url: https://resume.js.org
+# url: https://unimendacity.github.io
 # url: http://localhost:4000
 root: /
 permalink: posts/:title/
@@ -164,4 +164,4 @@ lazyload:
 deploy:
   type: git
   repo: git@github.com:Unimendacity/unimendacity.github.io.git
-  branch: resume
+  branch: gh-pages
