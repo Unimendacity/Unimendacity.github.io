@@ -162,5 +162,5 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Unimendacity/sdtczfy.github.io.git
-  branch: gh-pages
+  repo: git@github.com:Unimendacity/unimendacity.github.io.git
+  branch: resume
