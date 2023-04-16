@@ -1,7 +1,7 @@
 # Hexo Configuration
 
 # Site
-title: Xu Liangwei's Page
+title: Zhao Feiyu's Page
 subtitle: ''
 description: ''
 keywords:
@@ -162,5 +162,5 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Unimendacity/xlwyes.github.io.git
+  repo: git@github.com:Unimendacity/sdtczfy.github.io.git
   branch: gh-pages
