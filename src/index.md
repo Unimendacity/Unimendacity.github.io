@@ -12,8 +12,8 @@ avatar: zfy.jpg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: https://Unimendacity.github.io
-    url: https://Unimendacity.github.io/
+    text: https://unimendacity.github.io
+    url: https://unimendacity.github.io/
   # 邮箱
   - icon: fas fa-envelope
     text: sdtczfy@163.com
