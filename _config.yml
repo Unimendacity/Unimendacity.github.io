@@ -14,7 +14,8 @@ favicon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 
 # 主题
-theme: resume
+# theme: resume
+remote_theme: xaoxuu/resume-docs
 theme_config:
   robots: index,follow
 # URL
